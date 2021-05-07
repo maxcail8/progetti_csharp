@@ -1,0 +1,11 @@
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\bin\Debug\AbitazioniQuartieri.exe.config
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\bin\Debug\AbitazioniQuartieri.exe
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\bin\Debug\AbitazioniQuartieri.pdb
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\obj\Debug\AbitazioniQuartieri.csprojResolveAssemblyReference.cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\obj\Debug\AbitazioniQuartieri.Form1.resources
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\obj\Debug\AbitazioniQuartieri.Properties.Resources.resources
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\obj\Debug\AbitazioniQuartieri.csproj.GenerateResource.Cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\obj\Debug\AbitazioniQuartieri.csproj.CoreCompileInputs.cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\obj\Debug\AbitazioniQuartieri.exe
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\obj\Debug\AbitazioniQuartieri.pdb
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\OOP\EserciziCasa\AbitazioniQuartieri\AbitazioniQuartieri\obj\Debug\AbitazioniQuartieri.FrmAbitazione.resources
