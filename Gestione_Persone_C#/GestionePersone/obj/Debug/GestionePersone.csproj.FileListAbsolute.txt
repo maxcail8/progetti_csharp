@@ -1,0 +1,31 @@
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\bin\Debug\GestionePersone.exe.config
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\bin\Debug\GestionePersone.exe
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\bin\Debug\GestionePersone.pdb
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\obj\Debug\GestionePersone.csprojResolveAssemblyReference.cache
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\obj\Debug\GestionePersone.Form1.resources
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\obj\Debug\GestionePersone.Properties.Resources.resources
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\obj\Debug\GestionePersone.csproj.GenerateResource.Cache
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\obj\Debug\GestionePersone.exe
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\obj\Debug\GestionePersone.pdb
+C:\Users\cailotto.massimo\Documents\CailottoMassimo4D1\C#\GestionePersone\GestionePersone\obj\Debug\GestionePersone.FrmPersona.resources
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\bin\Debug\GestionePersone.exe.config
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\obj\Debug\GestionePersone.exe
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\obj\Debug\GestionePersone.pdb
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\bin\Debug\GestionePersone.exe
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\bin\Debug\GestionePersone.pdb
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\obj\Debug\GestionePersone.csprojResolveAssemblyReference.cache
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\obj\Debug\GestionePersone.Form1.resources
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\obj\Debug\GestionePersone.FrmPersona.resources
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\obj\Debug\GestionePersone.Properties.Resources.resources
+C:\Users\cailotto.massimo\Documents\Cailotto Massimo 4D1\informatica\InterfacciaGrafica\GestionePersone\GestionePersone\obj\Debug\GestionePersone.csproj.GenerateResource.Cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\bin\Debug\GestionePersone.exe.config
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\bin\Debug\GestionePersone.exe
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\bin\Debug\GestionePersone.pdb
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\obj\Debug\GestionePersone.csprojResolveAssemblyReference.cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\obj\Debug\GestionePersone.Form1.resources
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\obj\Debug\GestionePersone.FrmPersona.resources
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\obj\Debug\GestionePersone.Properties.Resources.resources
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\obj\Debug\GestionePersone.csproj.GenerateResource.Cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\obj\Debug\GestionePersone.csproj.CoreCompileInputs.cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\obj\Debug\GestionePersone.exe
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\GestionePersone\GestionePersone\obj\Debug\GestionePersone.pdb

@@ -1,0 +1,10 @@
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\bin\Debug\GestioneRubrica.exe.config
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\bin\Debug\GestioneRubrica.exe
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\bin\Debug\GestioneRubrica.pdb
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\obj\Debug\GestioneRubrica.Form1.resources
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\obj\Debug\GestioneRubrica.Properties.Resources.resources
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\obj\Debug\GestioneRubrica.csproj.GenerateResource.Cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\obj\Debug\GestioneRubrica.csproj.CoreCompileInputs.cache
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\obj\Debug\GestioneRubrica.exe
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\obj\Debug\GestioneRubrica.pdb
+E:\documenti\scuola\Quarta\informatica\C#\InterfacciaGrafica\EserciziCasa\VacanzeNatale\GestioneRubrica\GestioneRubrica\obj\Debug\GestioneRubrica.csprojAssemblyReference.cache
